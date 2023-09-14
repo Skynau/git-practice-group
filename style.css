@@ -1,3 +1,7 @@
 main {
-    color: purple;
+    color: red;
+}
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
